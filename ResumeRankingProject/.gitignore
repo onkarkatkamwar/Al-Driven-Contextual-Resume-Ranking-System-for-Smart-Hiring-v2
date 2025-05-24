@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.env
+resume_env/
+node_modules/
+*.sqlite3
+uploads/
+uploaded_resumes/
+ranked_results.json
+job_description.txt
+.env.*
+.DS_Store
